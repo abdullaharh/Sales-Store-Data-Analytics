@@ -1,4 +1,5 @@
 Sales Data Analysis 📊
+
 In this Python Pandas and Matplotlib-based analysis, we delve into 24 months of sales data (spanning 2020 to 2021) to derive insights and address key business questions. The dataset encompasses a substantial volume of transactions from an electronics store, detailing information such as  product types, costs, purchase addresses, and product quantities.
 
 The initial step involves consolidating all individual files into a unified dataset through the concatenation of multiple CSV files using pd.concat.
